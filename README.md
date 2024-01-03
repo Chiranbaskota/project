@@ -1,4 +1,4 @@
 # project
 This is my second git repository. 
 <br>
-Author - Chiranjivi Baskota
+Author - Chiranjivi Baskota (Java developer)
